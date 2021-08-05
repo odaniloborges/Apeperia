@@ -1,0 +1,16 @@
+$sprite-spancing: 22px;
+@import "sprite/*.png";
+
+@import 'helpers/variaveis';
+@import 'helpers/mixins';
+
+@import 'base/normalize.scss';
+@import 'layout/geral.scss';
+@import 'layout/header';
+@import 'layout/destaque';
+@import 'layout/sobre';
+@import 'layout/planos';
+@import 'layout/blog';
+@import 'layout/contato';
+@import 'layout/footer';
+
